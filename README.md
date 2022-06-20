@@ -1,6 +1,6 @@
 FAQ accordion card
 
-Hi, my name is Chan. This accordion-page is one of the challenges from the front-end mentor. <br> This challenge exercise is coded with HTML,CSS, Javascript by me.
+Hi, my name is Chan. This accordion-page is one of the challenges from the front-end mentor. <br> This challenge exercise is coded with HTML,CSS, JavaScript by me.
 <br>
 Contact me: chanaung48944@gmail.com
 <br>
